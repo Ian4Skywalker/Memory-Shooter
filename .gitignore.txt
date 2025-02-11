@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Archivos generados automáticamente
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de Asset Store
+[Aa]ssets/AssetStoreTools*
+
+# Archivos de autoguardado
+*.autosave
+
+# Archivos de Crashlytics
+crashlytics-build.properties
